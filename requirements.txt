@@ -1,0 +1,20 @@
+numpy>=2.1.0
+pandas>=2.2.3
+cvzone==1.5.6
+ultralytics>=8.3.0
+matplotlib>=3.9.0
+opencv-python>=4.10.0
+Pillow>=10.4.0
+PyYAML>=6.0.2
+requests>=2.32.0
+scipy>=1.14.0
+torch>=2.6.0
+torchvision>=0.21.0
+filterpy==1.4.5
+scikit-image>=0.24.0
+lap>=0.5.12
+
+## abewly sort git hub repo requirements.txt file
+#filterpy==1.4.5
+#scikit-image==0.17.2
+#lap==0.4.0
