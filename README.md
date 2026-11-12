@@ -116,8 +116,8 @@ YOLO-Based-Vehicle-Detection-Tracking-Counting/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd YOLO-Based-Vehicle-Detection-Tracking-Counting
+git clone https://github.com/rajputporika02/object_detection_tracking_count.git
+cd object_detection_tracking_count
 ```
 
 ### 2. Create a Virtual Environment
@@ -231,6 +231,7 @@ The system produces an annotated video displaying:
 - A dynamically updated total vehicle count.
 
 The final output includes the list of unique tracked vehicle IDs and the total number of vehicles counted during the video.
+<img width="400" height="230" alt="WhatsApp Video 2026-11-12 at 9 53 39 PM" src="https://github.com/user-attachments/assets/2dfa5c2d-c6ad-4271-9c71-f03b3711a708" />
 
 ## Applications
 
@@ -267,7 +268,7 @@ The final output includes the list of unique tracked vehicle IDs and the total n
 
 ## Author
 
-**P. Abidsingh Rajput Porika**
+**P. Abidsingh Rajput**
 
 Computer Vision | Deep Learning | Machine Learning
 
